@@ -19,7 +19,7 @@ export const questions: Pergunta[] = [
             {id: 2, text:'Gabigordo'},
             {id: 3, text:'Arraxcapeta'}
         ],
-        answer: 2
+        answer: 1
     },
     {
         question: "Quem tem mais jogos pelo Flamengo?",
